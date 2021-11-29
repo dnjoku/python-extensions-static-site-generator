@@ -1,7 +1,7 @@
 import sys
 import importlib
 
-from pathlib import pathlib
+from pathlib import Path
 
 def load_module(directory, name):
     sys.path.isert(0, directory)
