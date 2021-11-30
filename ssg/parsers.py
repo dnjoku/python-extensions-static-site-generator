@@ -8,7 +8,7 @@ from docutils.core import publish_parts
 from markdown import markdown
 from ssg.content import Content
 
-from ssg impirt hooks
+from ssg import hooks
 
 
 class Parser:
